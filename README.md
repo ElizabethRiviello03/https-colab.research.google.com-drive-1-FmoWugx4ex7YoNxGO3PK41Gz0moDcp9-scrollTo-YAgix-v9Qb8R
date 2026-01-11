@@ -112,5 +112,4 @@ Elizabeth Riviello
 
 ---
 
-**Última actualización**: 2026  
 **Fuente de datos**: Our World in Data (OWID)

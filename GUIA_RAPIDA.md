@@ -167,6 +167,5 @@ Para preguntas o problemas:
 
 ---
 
-**Última actualización:** 2026  
 **Versión:** 1.0  
 **Licencia:** Uso educativo y de investigación
